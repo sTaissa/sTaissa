@@ -3,14 +3,14 @@
 
 <h3> 👩‍💻 About me</h3>
 
-~~~javascript 
-console.log("Hello World!");
+~~~python 
+print("Hello World!")
 
-let sTaissa = {
-  country: "Brazil",
-  age: 20,
-  languages: ["Portuguese", "English"],
-  gender: "Female"
+sTaissa = {
+  "country": "Brazil",
+  "age": 20,
+  "languages": ["Portuguese", "English"],
+  "gender": "Female"
 }
 ~~~
 
@@ -28,3 +28,6 @@ let sTaissa = {
 </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/pt/free/?trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=Cj0KCQjwoeemBhCfARIsADR2QCvb8xsG7zc5im8m1Ic2172UMxTa4eLwWSPjawXPOgSyL5hCdpMpSZoaAlhYEALw_wcB:G:s&s_kwcid=AL!4422!3!561843094929!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+          
